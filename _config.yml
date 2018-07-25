@@ -17,7 +17,7 @@ title: La Forma de la Tierra
 email: your-email@example.com
 description: "Hello."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.laformadelatierra.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
@@ -41,3 +41,11 @@ remote_theme: "mmistakes/minimal-mistakes"
 #   - vendor/ruby/
 
 locale: "es-cl"
+
+author:
+  name   : "Your Name"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "My awesome biography constrained to a sentence or two goes here."
+  email  : # optional
+  uri    : "http://your-site.com"
+  home   : # null (default), "absolute or relative url to link to author home"
