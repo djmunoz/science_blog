@@ -59,6 +59,7 @@ classes:
   - dark-theme
 
 
+
 # Defaults
 defaults:
   # _posts
@@ -79,4 +80,6 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+
 
