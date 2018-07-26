@@ -40,7 +40,8 @@ remote_theme: "mmistakes/minimal-mistakes"
 #   - vendor/gems/
 #   - vendor/ruby/
 
-locale: "es-cl"
+locale: "en-us"
+slanguages: ["sv", "en", "de", "fr"]
 
 author:
   name   : "Diego J. Munoz"
