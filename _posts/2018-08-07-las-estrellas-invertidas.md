@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Las Estrellas Invertidas"
+title:  Las Estrellas Invertidas
 date:   2018-08-08 
-categories: tierra 
+categories: [tierra] 
 published: true
 pinned: true
 ---
 
-Se le atribuye al pensador griego Erátostenes [Wikipedia](https://es.wikipedia.org/wiki/Eratóstenes)
+Se le atribuye al pensador griego Erátostenes [(artículo en Wikipedia)](https://es.wikipedia.org/wiki/Eratóstenes)
 
 
