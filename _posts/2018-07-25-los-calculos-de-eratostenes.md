@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  Los cálculos de Eratóstenes
 date:   2018-07-25 
 categories: [tierra] 

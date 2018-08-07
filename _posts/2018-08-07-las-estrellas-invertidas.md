@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  Las Estrellas Invertidas
 date:   2018-08-07 
 categories: [tierra] 
