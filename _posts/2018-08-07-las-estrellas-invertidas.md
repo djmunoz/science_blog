@@ -7,6 +7,13 @@ published: true
 pinned: true
 ---
 
+
+Te has dado cuenta de que la constelación de Orión está dada vuelta? Sabes por qué? 
+
+---
+
+
+
 Se le atribuye al pensador griego Eratóstenes [(artículo en Wikipedia)](https://es.wikipedia.org/wiki/Eratóstenes) la primera medición del radio de la Tierra. Sin embargo, Eratóstenes vivió en el siglo 3 A.C., y esta altura los griegos ya tenían una idea clara de que la Tierra no era plana. Según historiadores de la Grecia Antigua y Clásica [(en este libro, por ejemplo)](https://www.amazon.com/Early-Greek-Astronomy-Aristotle-Aspects/dp/0801493102), ya en la época de Aristóteles, todo "pensador de reputación estaba convencido de la que Tierra era redonda" (traducción mía). Entonces, sin la medición precisa de Erastóstenes (que revisaremos en algún futuro post), como llegaron los griegos a aquella conclusión?
 
 Los griegos de la Epoca Clásica (siglos 5to y 4to A.C.) eran -- junto con los fenicios y los cartaginenses -- los más avezados navegantes del Mediterráneo. Tal vez, eso de que "los barcos desaparecen bajo el horizonte" fue suficiente prueba de que la superficie del Mundo era curva hasta cierto punto. Sin embargo, los griegos tenían otra fuente de convincente evidencia: el cielo.
