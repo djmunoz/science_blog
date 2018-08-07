@@ -2,7 +2,7 @@
 layout: post
 title:  "Los cálculos de Eratótenes"
 date:   2018-07-25 
-categories:  
+categories: tierra 
 published: true
 ---
 
