@@ -20,6 +20,8 @@ Los griegos de la Epoca Clásica (siglos 5to y 4to A.C.) eran -- junto con los f
 La Astronomía occidental (así como la, ejem, Astrología) tiene sus cimientos en la Grecia Clásica y Helénica. Los griegos eran entusiastas observadores del Firmamento! La extensión Norte-Sur del territorio bajo influencia griega (desde el Mar Negro hasta Egipto, unos 1300 kilómetros) les permitió percatarse de que ciertos astros en el cielo no eran visibles desde todas partes. 
 
 Así como una persona parada en una loma (ver figura)no puede ver los objectos localizados más allá de cierto ángulo (sin importart la distancia!), dos personas situadas en distintas partes de la Tierra, no ven exactamente las mismas estrellas. Para notar este efecto a simple vista, se necesitan algunos cientos de kilómetros de distancia entre los dos puntos de observación.
+{% capture imgFullUrl %}{{ site.url }}{{ site.baseurl }}/images/curved_surface_observer.png{% endcapture %}
+{% include img.html url=imgFullUrl description="Figure 1.  image description." %}
 ![]({{site.url}}/images/curved_surface_observer.png){: .align-center style="width: 1200px"}
 
 
