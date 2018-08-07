@@ -1,5 +1,6 @@
 # Welcome to Jekyll!
 #
+permalink: /ddposts/
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
 # yourself editing this file very often, consider using Jekyll's data files
@@ -89,7 +90,7 @@ kramdown:
 # Outputting
 permalink: /:categories/:title/
 paginate:  6 # amount of posts to show
-paginate_path: page:num/
+paginate_path: "/posts/page:num/"
 timezone: UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins
