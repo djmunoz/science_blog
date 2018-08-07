@@ -104,6 +104,8 @@ plugins:
   - jekyll-feed
   - jemoji
 
+github: [metadata]
+
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
