@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Los cálculos de Eratótenes"
+title:  Los cálculos de Eratóstenes
 date:   2018-07-25 
-categories: tierra 
+categories: [tierra] 
 published: true
 ---
 
