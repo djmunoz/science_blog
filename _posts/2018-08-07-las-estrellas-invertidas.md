@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Las Estrellas Invertidas
-date:   2018-08-08 
+date:   2018-08-07 
 categories: [tierra] 
 published: true
 pinned: true
