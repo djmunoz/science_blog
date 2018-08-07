@@ -7,10 +7,9 @@ published: true
 pinned: true
 ---
 
+<sub><sup>Te has dado cuenta de que la constelación de Orión está dada vuelta? Sabes por qué? </sup></sub> 
 
-Te has dado cuenta de que la constelación de Orión está dada vuelta? Sabes por qué? 
-
----
+***
 
 
 
