@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Los cálculos de Eratótenes"
+title:  "Las Estrellas Invertidas""
 date:   2018-07-25 
 categories: tierra 
 published: true
