@@ -59,6 +59,15 @@ classes:
   - dark-theme
 
 
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+year_archive:
+  type: liquid
+  path: /posts/
 
 # Outputting
 permalink: /:categories/:title/
