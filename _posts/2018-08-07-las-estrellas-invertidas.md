@@ -32,10 +32,12 @@ Así como una persona parada en una loma (ver figura)no puede ver los objectos l
 </figure>
 
 El Cielo a lo Largo del Territorio Chileno
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----------------------------------------
 
 
 
  
-
+Orión de Patas Arriba
+----------------------------------------
  
+
