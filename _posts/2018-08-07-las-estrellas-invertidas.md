@@ -41,3 +41,12 @@ Orión de Patas Arriba
 ----------------------------------------
  
 
+{% capture fig_img %}
+![Foo]({{ "/images/orion_upside_down.png" | relative_url }})
+{% endcapture %}
+
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>Photo from Unsplash.</figcaption>
+</figure>
+
