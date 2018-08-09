@@ -49,7 +49,7 @@ author:
   #avatar : "/assets/images/bio-photo.jpg"
   bio    : "Astrónomo chileno. Viviendo en Chicago, USA. Interesando en divulgar la ciencia y el método científico."
   email  : # optional
-  uri    : "http://your-site.com"
+  uri    : "http://sites.northwestern.edu/diego.munoz"
   home   : # null (default), "absolute or relative url to link to author home"
 
 
