@@ -34,7 +34,7 @@ Así como una persona parada en una loma (ver figura) no puede ver los objetos l
 
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption> Superficies curvas bloquean objectos de nuestro campo de visióni. (figure credit D.J.Munoz)</figcaption>
+  <figcaption> Superficies curvas bloquean objetos de nuestro campo de visión. (figure credit D.J.Munoz)</figcaption>
 </figure>
 
 
