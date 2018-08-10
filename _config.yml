@@ -52,6 +52,13 @@ author:
   uri    : "https://sites.northwestern.edu/diegomunoz/"
   home   : # null (default), "absolute or relative url to link to author home"
 
+# Analytics
+analytics:
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
+  google:
+  tracking_id          : "UA-18116630-4"
+
+
 
 # Reading Files
 include:
