@@ -98,6 +98,15 @@ d^2 = (R + h)^2 - R^2 = 2Rh + h^2 \\
 d=\sqrt{2*6400000*1.75 + 1.75^2} {\rm metros} = {\rm 4732 metros}
 \end{align}
 
+
+\\begin{align}
+\Delta \Sigma \dot{t} &= ((r^2+a^2)^2-\Delta a^2\sin^2\theta)E - 2Mr a L_z \\\
+\Sigma^2 \dot{r}^2 &= E^2 r^4 + (a^2E^2-L_z^2-\mathcal{Q})r^2 + 2M[(aE-L_z)^2+\mathcal{Q}]r - a^2 \mathcal{Q} \\\
+\Sigma^2\dot{\theta}^2 &= \mathcal{Q} - \left( \frac{L_z^2}{\sin^2\theta}-E^2a^2 \right)\cos^2\theta \\\
+\Delta\Sigma\dot{\phi} &= 2MraE + (\Sigma-2Mr)\frac{L_z}{\sin^2\theta}
+\\end{align}
+
+
 De trigonometría básica sabemos que el tamaño angular $$\alpha$$ de un objeto
 de ancho $$A$$ a una distancia $$D$$ obedece la relación
 
@@ -110,7 +119,11 @@ statement:\$$ \tan\alpha = \frac{A}{D} $$
 El Experimento
 ----------------
 
-Sin instrumentos, apreciar la diferenca
-El experimento en este caso es simple.
+Sin instrumentos, apreciar la diferencia de xx grados a simple vista 
+no es fácil. Sin embargo XX grados no es poco. Como referencia, el **tamaño angular**
+de La Luna y el Sol es aproximadamente el mismo y corresponde a más o menos medio
+grado. 
+
+El experimento en este caso es simple. En lugar de intentar medir 
 
 
