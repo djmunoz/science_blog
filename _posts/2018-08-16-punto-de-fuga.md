@@ -100,7 +100,7 @@ una distancia $$d$$
 </figure>
 
 Usando el [teorema de Pitágoras](https://es.wikipedia.org/wiki/Teorema_de_Pitágoras),
-podemos concluir que la distancia al horizonte $$d$$ satisface la fórmula 
+podemos concluir que esta distancia al horizonte ($$d$$) satisface la fórmula 
 
 
 \\begin{align}
