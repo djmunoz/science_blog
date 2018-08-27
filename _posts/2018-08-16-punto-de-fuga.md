@@ -122,7 +122,7 @@ Usando, como antes, $$R=6400$$ km y $$h=1.75$$ m, tenemos que el ángulo es
 
 
 Es decir, la diferencia entre mirar directo al infinito (a la altura de los ojos)
-y mirar el horizonte en el mar, es de sólo 0.04 grados. Aprecia esta diferencia a simple vista (sin instrumentos) no es fácil. La resolución angular promedio del ojo humano es cerca de [0.02 grados](https://es.wikipedia.org/wiki/Simple_vista) por lo que somos apenas capaces **físicamente** de notar esta diferencia. Para que el horizonte baje, digamos, un grado completo, por debajo de la línea horizontal, tendríamos que ir mucho más alto. Reemplazando $$\theta=1^\circ$$ en la formula anterior, encontramos que la altura necesaria es de $$h=975$$ metros! Lo que supera la altura del 
+y mirar el horizonte en el mar, es de sólo 0.04 grados. Apreciar esta diferencia a simple vista (sin instrumentos) no es fácil. La resolución angular promedio del ojo humano es cerca de [0.02 grados](https://es.wikipedia.org/wiki/Simple_vista) por lo que somos apenas capaces **físicamente** de notar esta diferencia. Para que el horizonte baje, digamos, un grado completo, por debajo de la línea horizontal, tendríamos que ir mucho más alto. Reemplazando $$\theta=1^\circ$$ en la formula anterior, encontramos que la altura necesaria es de $$h=975$$ metros! Lo que supera la altura del 
 [edificio más alto del mundo](https://es.wikipedia.org/wiki/Burj_Khalifa). Esta dificultad puede ser superada por el experimento descrito a continuación.
 
 
