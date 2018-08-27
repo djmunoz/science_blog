@@ -70,6 +70,15 @@ Pues bien, la diferencia entre mirar al infinito y mirar al **verdadero horizont
 A medida que el radio de curvatura $$R$$ crece (es decir, el tamaño de la esfera sobre la que estamos parados aumenta), el ángulo $$\theta$$ se reduce. Cuando el radio $$R$$ is infinito -- lo que equivale a decir que la superficie sobre la que estamos parados **es plana** -- entonces $$\theta=0^\circ$$. Es decir, si uno **viviera sobre un plano infinito** (o el radio de curvatura $$R$$ is infinito), el **el horizonte siempre estaría a nivel de los ojos**, como se ilustra en la siguiente figura.
 
 
+{% capture fig_img %}
+![Foo]({{ "/images/horizon_multiple.png" | relative_url }})
+{% endcapture %}
+
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption> Trigonometría básica detrás del cálculo de la distancia a la que se encuentra el horizonte  (figure credit D.J.Munoz). </figcaption>
+</figure>
+
 El Cálculo
 ----------------
 
