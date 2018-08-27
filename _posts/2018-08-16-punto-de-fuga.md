@@ -63,11 +63,11 @@ Pues bien, la diferencia entre mirar al infinito y mirar al **verdadero horizont
 
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption> Diferencia entre ``mirar al infinito'' a la altura de los ojos y mirar al horizonte. El horizonte está a una distancia que depende del radio de curvatura (el radio de la Tierra) y su ubicación se encuentra por debajo de la línea horizontal de nuestra visión.) </figcaption>
+  <figcaption> Diferencia entre ``mirar al infinito'' a la altura de los ojos y mirar al horizonte. El horizonte está a una distancia que depende del radio de curvatura (el radio de la Tierra) y su ubicación se encuentra por debajo de la línea horizontal de nuestra visión (figure credit D.J.Munoz) </figcaption>
 </figure>
 
 
-A medida que el radio de curvatura $$R$$ crece (es decir, el tamaño de la esfera sobre la que estamos parados aumenta), el ángulo $$\theta$$ se reduce. Cuando el radio $$R$$ is infinito -- lo que equivale a decir que la superficie sobre la que estamos parados **es plana** -- entonces $$\theta=0^\circ$$. Es decir, si uno **viviera sobre un plano infinito** (o el radio de curvatura $$R$$ is infinito), el **el horizonte siempre estaría a nivel de los ojos**, como se ilustra en la siguiente figura.
+A medida que el radio de curvatura $$R$$ crece (es decir, el tamaño de la esfera sobre la que estamos parados aumenta), el ángulo $$\theta$$ se reduce. Cuando el radio $$R$$ is infinito -- lo que equivale a decir que la superficie sobre la que estamos parados **es plana** -- entonces $$\theta=0^\circ$$. Es decir, si uno **viviera sobre un plano infinito** (o el radio de curvatura $$R$$ is infinito), el **el horizonte siempre estaría a nivel de los ojos**, como se ilustra en la siguiente figura, **sin importar la altura del observador **.
 
 
 {% capture fig_img %}
@@ -76,7 +76,7 @@ A medida que el radio de curvatura $$R$$ crece (es decir, el tamaño de la esfer
 
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption> Trigonometría básica detrás del cálculo de la distancia a la que se encuentra el horizonte  (figure credit D.J.Munoz). </figcaption>
+  <figcaption> El ángulo del horizonte por debajo de la línea de visión a medida que aumentamos el radio de la Tierra. Cuando la Tierra es un plano infinito, el horizonte está siempre al nivel de los ojos, sin importar la altura del observador  (figure credit D.J.Munoz). </figcaption>
 </figure>
 
 El Cálculo
