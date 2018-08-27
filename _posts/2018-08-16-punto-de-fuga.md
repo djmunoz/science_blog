@@ -105,7 +105,7 @@ podemos concluir que esta distancia al horizonte ($$d$$) satisface la fórmula
 
 \\begin{align}
 d^2 &= (R + h)^2 - R^2 = 2Rh + h^2 \\\
-{\rm o sea}\\\
+{\rm o\;sea}\\\
 d &= \sqrt{2\times6400000\times1.75 + 1.75^2}~{\rm metros} = 4732~{\rm metros}
 \\end{align}
 
