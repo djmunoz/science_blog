@@ -93,10 +93,10 @@ una distancia $$d$$
 Usando el [teorema de Pitágoras](https://es.wikipedia.org/wiki/Teorema_de_Pitágoras),
 podemos concluir que $$d$$ satisface la fórmula 
 
-\begin{align}
-d^2 = (R + h)^2 - R^2 = 2Rh + h^2 \\
+\\begin{align}
+d^2 = (R + h)^2 - R^2 = 2Rh + h^2 \\\
 d=\sqrt{2*6400000*1.75 + 1.75^2} {\rm metros} = {\rm 4732 metros}
-\end{align}
+\\end{align}
 
 Es decir, **el horizonte se encuentra sólo 5 kilómetros de distancia**!! 
 Por supuesto, esto es asumiendo la ausencia de obstáculos (montañas, árboles, edificios), por lo que representa la realidad en lugares con muy poco relieve o en el mar.
