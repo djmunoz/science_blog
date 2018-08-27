@@ -63,7 +63,7 @@ Pues bien, la diferencia entre mirar al infinito y mirar al **verdadero horizont
 
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption> Perspectiva de calles de Ciudad México, dibujadas usando la técnica del punto de fuga  (figure credit D.J.Munoz). </figcaption>
+  <figcaption> Diferencia entre ``mirar al infinito'' a la altura de los ojos y mirar al horizonte. El horizonte está a una distancia que depende del radio de curvatura (el radio de la Tierra) y su ubicación se encuentra por debajo de la línea horizontal de nuestra visión.) </figcaption>
 </figure>
 
 
