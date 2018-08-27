@@ -67,7 +67,7 @@ Pues bien, la diferencia entre mirar al infinito y mirar al **verdadero horizont
 </figure>
 
 
-Ha medida que el radio de curvatura $$R$$ crece (es decir, el tamaño de la esfera sobre la que estamos parados aumenta), el ángulo $$\theta$$ se reduce. Cuando el radio $$R$$ is infinito -- lo que equivale a decir que la superficie sobre la que estamos parados **es plana** -- entonces $$\theta=0^\circ$$.
+A medida que el radio de curvatura $$R$$ crece (es decir, el tamaño de la esfera sobre la que estamos parados aumenta), el ángulo $$\theta$$ se reduce. Cuando el radio $$R$$ is infinito -- lo que equivale a decir que la superficie sobre la que estamos parados **es plana** -- entonces $$\theta=0^\circ$$. Es decir, si uno **viviera sobre un plano infinito** (o el radio de curvatura $$R$$ is infinito), el **el horizonte siempre estaría a nivel de los ojos**, como se ilustra en la siguiente figura.
 
 
 El Cálculo
@@ -79,7 +79,7 @@ Veamos. Ya sabemos que el infinito está a un ángulo de cero grados ($$0^\circ$
 
 Si el radio de la Tierra is de aproximadamente 6400 km y tu mides 1.75 metros, entonces,
 por trigonometría básica (ver siguiente figura), el horizonte se encuentra a 
-
+una distancia $$d$$
 
 {% capture fig_img %}
 ![Foo]({{ "/images/horizon_angle.png" | relative_url }})
@@ -87,21 +87,21 @@ por trigonometría básica (ver siguiente figura), el horizonte se encuentra a
 
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption> Perspectiva de calles de Ciudad México, dibujadas usando la técnica del punto de fuga  (figure credit D.J.Munoz). </figcaption>
+  <figcaption> Trigonometría básica detrás del cálculo de la distancia $$d$$ a la que se encuentra el horizonte  (figure credit D.J.Munoz). </figcaption>
 </figure>
 
+Usando el [teorema de Pitágoras](https://es.wikipedia.org/wiki/Teorema_de_Pitágoras),
+podemos concluir que $$d$$ satisface la fórmula 
 
+\\begin{align}
+d^2 = (R + h)^2 - R^2 = 2Rh + h^2 \\
+d=\sqrt{2*6400000*1.75 + 1.75^2} metros = 4732 metros
+\\end{align}
 De trigonometría básica sabemos que el tamaño angular $$\alpha$$ de un objeto
 de ancho $$A$$ a una distancia $$D$$ obedece la relación
 
 statement:\$$ \tan\alpha = \frac{A}{D} $$
 
-\\begin{align}
-\Delta \Sigma \dot{t} &= ((r^2+a^2)^2-\Delta a^2\sin^2\theta)E - 2Mr a L_z \\\
-\Sigma^2 \dot{r}^2 &= E^2 r^4 + (a^2E^2-L_z^2-\mathcal{Q})r^2 + 2M[(aE-L_z)^2+\mathcal{Q}]r - a^2 \mathcal{Q} \\\
-\Sigma^2\dot{\theta}^2 &= \mathcal{Q} - \left( \frac{L_z^2}{\sin^2\theta}-E^2a^2 \right)\cos^2\theta \\\
-\Delta\Sigma\dot{\phi} &= 2MraE + (\Sigma-2Mr)\frac{L_z}{\sin^2\theta}
-\\end{align}
 
 
 
