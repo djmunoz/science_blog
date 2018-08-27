@@ -110,7 +110,8 @@ Ahora, lo que nos interesa es ese ángulo $$\theta$$. De nuevo, usando el trián
 rectángulo en la figura anterior, sabemos que existe una relación entre los lados
 del triángulo y una propiedad de $$\theta$$ conocida como el coseno: 
 statement:\$$ \cos\theta = \frac{R}{R+h}$$
-
+Usando, como antes, $$R=6400$$km y $$h=1.75$$m, tenemos que el ángulo e 
+statement:\$$ \theta = 0.04^\circ$$
 
 \\begin{align}
 \Delta \Sigma \dot{t} &= ((r^2+a^2)^2-\Delta a^2\sin^2\theta)E - 2Mr a L_z \\\
