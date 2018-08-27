@@ -73,7 +73,7 @@ A medida que el radio de curvatura $$R$$ crece (es decir, el tamaño de la esfer
 El Cálculo
 ----------------
 
-Ahora que tenemos los principios básicos a la mano, calculemos la magnitud de la diferencia entre el punto de fuga, y el horizonte debido a la curvatura. Es una diferencia apreciable a simple vista?
+Ahora que tenemos los principios básicos a la mano, calculemos la diferencia entre el punto de fuga, y el horizonte debido a la curvatura. Es una diferencia apreciable a simple vista?
 
 Veamos. Ya sabemos que el infinito está a un ángulo de cero grados ($$0^\circ$$) por debajo de la línea de visión horizontal. A cuántos grados por debajo de la línea de visión está el horizonte?
 
@@ -87,7 +87,7 @@ una distancia $$d$$
 
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption> Trigonometría básica detrás del cálculo de la distancia $$d$$ a la que se encuentra el horizonte  (figure credit D.J.Munoz). </figcaption>
+  <figcaption> Trigonometría básica detrás del cálculo de la distancia a la que se encuentra el horizonte  (figure credit D.J.Munoz). </figcaption>
 </figure>
 
 Usando el [teorema de Pitágoras](https://es.wikipedia.org/wiki/Teorema_de_Pitágoras),
@@ -101,7 +101,7 @@ d &= \sqrt{2\times6400000\times1.75 + 1.75^2}~{\rm metros} = 4732~{\rm metros}
 \\end{align}
 
 Es decir, **el horizonte se encuentra sólo 5 kilómetros de distancia**!! 
-Por supuesto, esto es asumiendo la ausencia de obstáculos (montañas, árboles, edificios), por lo que representa la realidad en lugares con muy poco relieve o en el mar.
+Por supuesto, esto es asumiendo la ausencia de obstáculos (montañas, árboles, edificios), por lo que representa la realidad en lugares con muy poco relieve o a la orilla del mar.
 
 Ahora, lo que nos interesa es ese ángulo $$\theta$$. De nuevo, usando el triángulo
 rectángulo en la figura anterior, sabemos que existe una relación entre los lados
@@ -113,17 +113,18 @@ Usando, como antes, $$R=6400$$ km y $$h=1.75$$ m, tenemos que el ángulo es
 
 
 Es decir, la diferencia entre mirar directo al infinito (a la altura de los ojos)
-y mirar el horizonte en el mar, es de sólo 0.04 grados. Apreciar la este diferencia a simple vista (sin instrumentos) no es fácil. La resolución angular promedio del ojo humano es cerca de [0.02 grados](https://es.wikipedia.org/wiki/Simple_vista) por lo que somos apenas capaces de **físicamente** de notar esta diferencia. Para que el horizonte baje, digamos, un grado completo, por debajo de la línea horizontal, tendríamos que ir mucho más alto. Reemplazando $$\theta=1^\circ$$ en la ecuación anterior, encontramos que la altura necesaria es de $$h=975$$~metros! Lo que supera la altura del 
-[edificio más alto del mundo](https://es.wikipedia.org/wiki/Burj_Khalifa). Esta dificultad puede ser superada por el experimento que descrito a continuación.
+y mirar el horizonte en el mar, es de sólo 0.04 grados. Apreciar la este diferencia a simple vista (sin instrumentos) no es fácil. La resolución angular promedio del ojo humano es cerca de [0.02 grados](https://es.wikipedia.org/wiki/Simple_vista) por lo que somos apenas capaces de **físicamente** de notar esta diferencia. Para que el horizonte baje, digamos, un grado completo, por debajo de la línea horizontal, tendríamos que ir mucho más alto. Reemplazando $$\theta=1^\circ$$ en la ecuación anterior, encontramos que la altura necesaria es de $$h=975$$ metros! Lo que supera la altura del 
+[edificio más alto del mundo](https://es.wikipedia.org/wiki/Burj_Khalifa). Esta dificultad puede ser superada por el experimento descrito a continuación.
 
 
 El Experimento
 ----------------
 
-Sin instrumentos, apreciar la diferencia de xx grados a simple vista 
-no es fácil. Sin embargo XX grados no es poco. Como referencia, el **tamaño angular**
-de La Luna y el Sol es aproximadamente el mismo y corresponde a más o menos medio
-grado. 
+Observemos el atardecer sentado sobre la playa y lo más cercano a la orilla posible.
+Digamos que, sentados de tal forma, la altura de nuestro ojos sobre el nivel del mar
+es de apenas 40 cm. Usando las mismas dos formulas de arriba, la distancia al horizonte
+y el ángulo por debajo de la horizontal son, respectivamente $$d=$$2.3 km y $$\theta=0.02^\circ$$. Esperemos a que el Sol se oculte completamente. Apenas esto ocurra, pongámonos de pie rápidamente, y retrocedamos algunos pasos alejándonos de la orilla (y subiendo un poco nuestra elevación). Digamos que ahora nuestros ojos están a 2.5 m por sobre el nivel del mar: entonces  $$d=$$5.7 km y $$\theta=0.05^\circ$$
+
 
 El experimento en este caso es simple. En lugar de intentar medir 
 
