@@ -95,7 +95,7 @@ podemos concluir que $$d$$ satisface la fórmula
 
 
 \\begin{align}
-d^2 &= (R + h)^2 - R^2 &= 2Rh + h^2 \\\
+d^2 &= (R + h)^2 - R^2 = 2Rh + h^2 \\\
 {\rm o sea}\\\
 d &= \sqrt{2\times6400000\times1.75 + 1.75^2}~{\rm metros} = 4732~{\rm metros}
 \\end{align}
@@ -108,21 +108,13 @@ rectángulo en la figura anterior, sabemos que existe una relación entre los la
 del triángulo y una propiedad de $$\theta$$ conocida como el coseno: 
 statement:\$$ \cos\theta = \frac{R}{R+h} $$
 
-Usando, como antes, $$R=6400$$ km y $$h=1.75$$ m, tenemos que el ángulo e 
-statement:\$$ \theta = 0.04^\circ  $$
-
-\\begin{align}
-\Delta \Sigma \dot{t} &= ((r^2+a^2)^2-\Delta a^2\sin^2\theta)E - 2Mr a L_z \\\
-\\end{align}
+Usando, como antes, $$R=6400$$ km y $$h=1.75$$ m, tenemos que el ángulo es 
+\$$ \theta = 0.04^\circ  $$
 
 
-De trigonometría básica sabemos que el tamaño angular $$\alpha$$ de un objeto
-de ancho $$A$$ a una distancia $$D$$ obedece la relación
-
-statement:\$$ \tan\alpha = \frac{A}{D} $$
-
-
-
+Es decir, la diferencia entre mirar directo al infinito (a la altura de los ojos)
+y mirar el horizonte en el mar, es de sólo 0.04 grados. Apreciar la este diferencia a simple vista (sin instrumentos) no es fácil. La resolución angular promedio del ojo humano es cerca de [0.02 grados](https://es.wikipedia.org/wiki/Simple_vista) por lo que somos apenas capaces de **físicamente** de notar esta diferencia. Para que el horizonte baje, digamos, un grado completo, por debajo de la línea horizontal, tendríamos que ir mucho más alto. Reemplazando $$\theta=1^\circ$$ en la ecuación anterior, encontramos que la altura necesaria es de $$h=975$$~metros! Lo que supera la altura del 
+[edificio más alto del mundo](https://es.wikipedia.org/wiki/Burj_Khalifa). Esta dificultad puede ser superada por el experimento que descrito a continuación.
 
 
 El Experimento
