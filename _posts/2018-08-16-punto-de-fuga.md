@@ -93,16 +93,11 @@ una distancia $$d$$
 Usando el [teorema de Pitágoras](https://es.wikipedia.org/wiki/Teorema_de_Pitágoras),
 podemos concluir que $$d$$ satisface la fórmula 
 
-\\begin{align}
-\Delta \Sigma \dot{t} &= ((r^2+a^2)^2-\Delta a^2\sin^2\theta)E - 2Mr a L_z \\\
-d^2 &= (R + h)^2 - R^2 = 2Rh + h^2 \\\
-d &= \sqrt{2*6400000*1.75 + 1.75^2}
-\\end{align}
 
 \\begin{align}
 d^2 &= (R + h)^2 - R^2 &= 2Rh + h^2 \\\
 {\rm o sea}\\\
-d&=\sqrt{2*6400000\times1.75 + 1.75^2} {\rm metros} = {\rm 4732 metros}
+d &= \sqrt{2\times6400000\times1.75 + 1.75^2}~{\rm metros} = 4732~{\rm metros}
 \\end{align}
 
 Es decir, **el horizonte se encuentra sólo 5 kilómetros de distancia**!! 
