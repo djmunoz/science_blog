@@ -102,7 +102,7 @@ d &= \sqrt{2*6400000*1.75 + 1.75^2}
 \\begin{align}
 d^2 &= (R + h)^2 - R^2 &= 2Rh + h^2 \\\
 {\rm o sea}\\\
-d&=\sqrt{2*6400000*1.75 + 1.75^2} {\rm metros} = {\rm 4732 metros}
+d&=\sqrt{2*6400000\times1.75 + 1.75^2} {\rm metros} = {\rm 4732 metros}
 \\end{align}
 
 Es decir, **el horizonte se encuentra sólo 5 kilómetros de distancia**!! 
