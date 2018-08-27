@@ -100,7 +100,7 @@ una distancia $$d$$
 </figure>
 
 Usando el [teorema de Pitágoras](https://es.wikipedia.org/wiki/Teorema_de_Pitágoras),
-podemos concluir que $$d$$ satisface la fórmula 
+podemos concluir que la distancia al horizonte $$d$$ satisface la fórmula 
 
 
 \\begin{align}
@@ -115,25 +115,25 @@ Por supuesto, esto es asumiendo la ausencia de obstáculos (montañas, árboles,
 Ahora, lo que nos interesa es ese ángulo $$\theta$$. De nuevo, usando el triángulo
 rectángulo en la figura anterior, sabemos que existe una relación entre los lados
 del triángulo y una propiedad de $$\theta$$ conocida como el coseno: 
-statement:\$$ \cos\theta = \frac{R}{R+h} $$
+\$$ \cos\theta = \frac{R}{R+h} $$
 
 Usando, como antes, $$R=6400$$ km y $$h=1.75$$ m, tenemos que el ángulo es 
 \$$ \theta = 0.04^\circ  $$
 
 
 Es decir, la diferencia entre mirar directo al infinito (a la altura de los ojos)
-y mirar el horizonte en el mar, es de sólo 0.04 grados. Apreciar la este diferencia a simple vista (sin instrumentos) no es fácil. La resolución angular promedio del ojo humano es cerca de [0.02 grados](https://es.wikipedia.org/wiki/Simple_vista) por lo que somos apenas capaces de **físicamente** de notar esta diferencia. Para que el horizonte baje, digamos, un grado completo, por debajo de la línea horizontal, tendríamos que ir mucho más alto. Reemplazando $$\theta=1^\circ$$ en la ecuación anterior, encontramos que la altura necesaria es de $$h=975$$ metros! Lo que supera la altura del 
+y mirar el horizonte en el mar, es de sólo 0.04 grados. Aprecia esta diferencia a simple vista (sin instrumentos) no es fácil. La resolución angular promedio del ojo humano es cerca de [0.02 grados](https://es.wikipedia.org/wiki/Simple_vista) por lo que somos apenas capaces **físicamente** de notar esta diferencia. Para que el horizonte baje, digamos, un grado completo, por debajo de la línea horizontal, tendríamos que ir mucho más alto. Reemplazando $$\theta=1^\circ$$ en la formula anterior, encontramos que la altura necesaria es de $$h=975$$ metros! Lo que supera la altura del 
 [edificio más alto del mundo](https://es.wikipedia.org/wiki/Burj_Khalifa). Esta dificultad puede ser superada por el experimento descrito a continuación.
 
 
 El Experimento
 ----------------
 
-Observemos el atardecer sentado sobre la playa y lo más cercano a la orilla posible.
+Observemos el atardecer sentados sobre la playa y lo más cercanos a la orilla como sea posible.
 Digamos que, sentados de tal forma, la altura de nuestro ojos sobre el nivel del mar
 es de apenas 40 cm. Usando las mismas dos formulas de arriba, la distancia al horizonte
 y el ángulo por debajo de la horizontal son, respectivamente $$d=$$2.3 km y $$\theta=0.02^\circ$$. Esperemos a que el Sol se oculte completamente. Apenas esto ocurra, pongámonos de pie rápidamente, y retrocedamos algunos pasos alejándonos de la orilla (y subiendo un poco nuestra elevación). Digamos que ahora nuestros ojos están a 2.5 m por sobre el nivel del mar: entonces  $$d=$$5.7 km y $$\theta=0.05^\circ$$. **Ahora podemos ver 
 $$0.03^\circ$$ más por debajo de la horizontal que estando sentados!!** 
 
-Ahora, parte del Sol (que ya se había puesto) será nuevamente visible (por muy poco). Es esta diferencia apreciable? Bueno, el solo tiene **un tamaño angular** de $$0.5^\circ$$, es decir, con $$0.03^\circ$$ podemos ver un 8% del diámetro del Sol. Es poco, pero lo suficiente como para ver una franja de luz (en este case, lo que importa es la cantidad de luz, más que el tamaño angular) que es visible porque estamos mirando desde mayor altura, corriendo el horizonte hacia abajo, debido a la curvatura de la Tierra.
+Con este pequeño ángulo extra, parte del Sol (que ya se había puesto) será nuevamente visible (por muy poco). Es esta diferencia apreciable? Bueno, el solo tiene **un tamaño angular** de $$0.5^\circ$$, es decir, con $$0.03^\circ$$ podemos ver un 8% del diámetro del Sol. Es poco, pero lo suficiente como para ver una franja de luz (en este caso, lo que importa es la cantidad de luz, más que el tamaño angular), la cual es visible porque estamos mirando desde mayor altura, corriendo el horizonte hacia abajo, lo que ocurre debido a la curvatura de la Tierra.
 
