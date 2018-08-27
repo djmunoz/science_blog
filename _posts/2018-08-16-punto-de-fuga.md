@@ -101,6 +101,12 @@ d=\sqrt{2*6400000*1.75 + 1.75^2} {\rm metros} = {\rm 4732 metros}
 Es decir, **el horizonte se encuentra sólo 5 kilómetros de distancia**!! 
 Por supuesto, esto es asumiendo la ausencia de obstáculos (montañas, árboles, edificios), por lo que representa la realidad en lugares con muy poco relieve o en el mar.
 
+Ahora, lo que nos interesa es ese ángulo $$\theta$$. De nuevo, usando el triángulo
+rectángulo en la figura anterior, sabemos que existe una relación entre los lados
+del triángulo y una propiedad de $$\theta$$ conocida como el coseno: 
+statement:\$$ \cos\theta = \frac{R}{R+h}$$
+
+
 \\begin{align}
 \Delta \Sigma \dot{t} &= ((r^2+a^2)^2-\Delta a^2\sin^2\theta)E - 2Mr a L_z \\\
 \\end{align}
