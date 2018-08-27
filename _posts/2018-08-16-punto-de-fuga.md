@@ -96,6 +96,7 @@ podemos concluir que $$d$$ satisface la fórmula
 \\begin{align}
 \Delta \Sigma \dot{t} &= ((r^2+a^2)^2-\Delta a^2\sin^2\theta)E - 2Mr a L_z \\\
 d^2 &= (R + h)^2 - R^2 = 2Rh + h^2 \\\
+d&=\sqrt{2*6400000*1.75 + 1.75^2} {\rm metros} = {\rm 4732 metros}\\\
 \\end{align}
 
 \\begin{align}
@@ -110,9 +111,10 @@ Por supuesto, esto es asumiendo la ausencia de obstáculos (montañas, árboles,
 Ahora, lo que nos interesa es ese ángulo $$\theta$$. De nuevo, usando el triángulo
 rectángulo en la figura anterior, sabemos que existe una relación entre los lados
 del triángulo y una propiedad de $$\theta$$ conocida como el coseno: 
-statement:\$$ \cos\theta = \frac{R}{R+h}$$
-Usando, como antes, $$R=6400$$km y $$h=1.75$$m, tenemos que el ángulo e 
-statement:\$$ \theta = 0.04^\circ$$
+statement:\$$ \cos\theta = \frac{R}{R+h} $$
+
+Usando, como antes, $$R=6400$$ km y $$h=1.75$$ m, tenemos que el ángulo e 
+statement:\$$ \theta = 0.04^\circ  $$
 
 \\begin{align}
 \Delta \Sigma \dot{t} &= ((r^2+a^2)^2-\Delta a^2\sin^2\theta)E - 2Mr a L_z \\\
