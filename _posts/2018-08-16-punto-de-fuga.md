@@ -93,10 +93,11 @@ una distancia $$d$$
 Usando el [teorema de Pitágoras](https://es.wikipedia.org/wiki/Teorema_de_Pitágoras),
 podemos concluir que $$d$$ satisface la fórmula 
 
-\\begin{align}
+\begin{align}
 d^2 = (R + h)^2 - R^2 = 2Rh + h^2 \\
 d=\sqrt{2*6400000*1.75 + 1.75^2} {\rm metros} = {\rm 4732 metros}
-\\end{align}
+\end{align}
+
 De trigonometría básica sabemos que el tamaño angular $$\alpha$$ de un objeto
 de ancho $$A$$ a una distancia $$D$$ obedece la relación
 
