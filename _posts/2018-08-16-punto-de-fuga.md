@@ -86,7 +86,7 @@ Ahora que tenemos los principios básicos a la mano, calculemos la diferencia en
 
 Veamos. Ya sabemos que el infinito está a un ángulo de cero grados ($$0^\circ$$) por debajo de la línea de visión horizontal. A cuántos grados por debajo de la línea de visión está el horizonte?
 
-Si el radio de la Tierra is de aproximadamente 6400 km y tu mides 1.75 metros, entonces,
+Si el radio de la Tierra is de aproximadamente 6400 km y tú mides 1.75 metros, entonces,
 por trigonometría básica (ver siguiente figura), el horizonte se encuentra a 
 una distancia $$d$$
 
