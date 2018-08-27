@@ -99,7 +99,8 @@ d^2 &= (R + h)^2 - R^2 = 2Rh + h^2 \\\
 \\end{align}
 
 \\begin{align}
-d^2 = (R + h)^2 - R^2 &= 2Rh + h^2 \\\
+d^2 &= (R + h)^2 - R^2 &= 2Rh + h^2 \\\
+{\rm o sea}\\\
 d&=\sqrt{2*6400000*1.75 + 1.75^2} {\rm metros} = {\rm 4732 metros}
 \\end{align}
 
