@@ -56,7 +56,7 @@ Objetos detrás del horizonte
 (Atención: esta sección contiene cálculos. Si prefieres saltarte los detalles, continua en la [sección
 siguiente](#chicagodesdemichigan))
 
-Primero, expliquemos cómo se ven los rascacielos a grandes distancias. En lo siguiente, usaremos algunas de las cosas que aprendimos en [un post anterior]({{ site.url }}{% post_url 2018-08-16-punto-de-fuga %}). Necesitamos recordar dos cosas: (1) que el tamaño aparente (o tamaño angular) de un objeto disminuye con la distancia, y (2) que la distancia al horizonte depende de la altura del nivel de los ojos. La única novedad adicional, es que objetos **detrás del horizonte sí pueden ser visibles**. Para ejemplificar, usemos la siguiente figura:
+Primero, expliquemos cómo se ven los rascacielos a grandes distancias. En lo siguiente, usaremos algunas de las cosas que aprendimos en [un post anterior]({{ site.url }}{% post_url 2018-08-16-punto-de-fuga %}). Necesitamos recordar dos cosas: (1) que el tamaño aparente (o tamaño angular) de un objeto disminuye con la distancia, y (2) que la distancia al horizonte depende de la altura del nivel de los ojos. El único concepto novedoso, es que objetos **detrás del horizonte sí pueden ser visibles**. Para ejemplificar, usemos la siguiente figura:
 
 {% capture fig_img %}
 ![Foo]({{ "/images/behind_horizon.png" | relative_url }})
