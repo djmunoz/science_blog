@@ -129,7 +129,7 @@ Ahora que tenemos las fórmulas necesarias para calcular $$H_1$$ y $$\Delta$$, l
   <figcaption> Representación clip-art de la ciudad de Chicago. </figcaption>
 </figure>
 
-Podemos ver que la representación está un poco desactualizada, pero los principales rascacielos se pueden identificar claramente. Para nuestros propósitos prácticos, consideraremos que Chicago es un rectángulo con una altura 527 m (la altura de la Torre Sears) y de 2.8 km de ancho. Con éstos números, y nuestra altura (digamos $$h=1.75~$$m) podemos calcular $$H_1$$ y $$\Delta$$ para distintas distancias $$D,$$ y **ver cómo Chicago se va achicando y hundiendo!**
+Podemos ver que la representación está un poco desactualizada, pero los principales rascacielos se pueden identificar claramente. Para nuestros propósitos prácticos, consideraremos que Chicago es un rectángulo con una altura 527 m (la altura de la Torre Sears, con las antenas) y de 2.8 km de ancho. Con éstos números, y nuestra altura (digamos $$h=1.75~$$m) podemos calcular $$H_1$$ y $$\Delta$$ para distintos valores de la distancia $$D,$$ y **ver cómo Chicago se va achicando y hundiendo!**
 
 {: id="chicagodesdemichigan"}
 Calculando cómo se ve Chicago desde Michigan City
