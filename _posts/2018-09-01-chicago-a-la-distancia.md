@@ -157,8 +157,7 @@ Enfoquémonos en el último ejemplo (60 km de distancia). En este caso, el hundi
   <figcaption> Vista a mayor detalle del tamaño aparente de Chicago por detrás del horizonte a una distancia de  60 km (figure credit D.J.Munoz). </figcaption>
 </figure>
 
-Ahora, aclaremos algo. Para este cálculo yo usé $$h=1.75~$$m, lo que implica que el observador está a la misma orilla del lago en Michigan City (casi mojándose los pies) observado la ciudad. Si, en lugar de la orilla misma del lago, el observador se encuentra en una calle aledaña a la playa (o un segundo piso de alguna casa cercana), la altura $$h$$ será mayor. Como ejemplo, supongamos que los pies del observador están a más de 6 metros de altura ($$h=8~$$m). Entonces, la visión de Chicago será así:
-
+Ahora, aclaremos algo. Para este cálculo yo usé $$h=1.75~$$m, lo que implica que el observador está a la orilla del lago en Michigan City (casi mojándose los pies) observado la ciudad. Si es que, en lugar de la orilla del lago, el observador se encontrara en una calle aledaña a la playa (o un segundo piso de alguna casa cercana), la altura $$h$$ sería mayor. Como ejemplo, supongamos que los pies del observador están a más de 6 metros de altura (en total, $$h=8~$$m). Entonces, la visión de Chicago será así:
 
 
 {% capture fig_img %}
