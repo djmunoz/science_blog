@@ -109,12 +109,12 @@ Finalmente, lo único que nos falta es calcular el **tamaño aparente o tamaño 
 \$$ \tan \Delta = \frac{s}{D} $$
 
 La distancia del planetario Adler al centro de Chicago en línea recta es algo menos que 3 kilómetros, así que
-\$$ \tan \Delta_{\rm (desde~Adler)} \approx 45^\circ~$$
+\$$ \Delta_{\rm (desde~Adler)} \approx 45^\circ~$$
 
 es decir, la ciudad cubre un cuarto de nuestro campo de visión a esta distancia (recordemos que, de oreja a oreja hay 180 grados).
 
 Ahora, Michigan City se encuentra a 60 km de Chicago cruzando el lago, en ese caso, el tamaño aparente de la ciudad es de solamente
-\$$ \tan \Delta_{\rm (desde~Michigan)} \approx 2.5^\circ~$$
+\$$ \Delta_{\rm (desde~Michigan)} \approx 2.5^\circ~$$
 
 o sea, mucho más chico que nuestro campo de visión, pero aún así aproximadamente 5 veces más grande que el Sol (en la dirección horizontal no más!).
 
