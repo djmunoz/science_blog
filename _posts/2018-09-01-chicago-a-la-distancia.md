@@ -53,8 +53,6 @@ coordenadas de la torre Sears son 41°52′44″N (latitud) 87°38′09″W (lon
 Objetos detrás del horizonte
 ---------------------------
 
-(Atención: esta sección contiene cálculos. Si prefieres saltarte los detalles, continua en la [sección
-siguiente](#chicagodesdemichigan))
 
 Primero, expliquemos cómo se ven los rascacielos a grandes distancias. En lo siguiente, usaremos algunas de las cosas que aprendimos en [un post anterior]({{ site.url }}{% post_url 2018-08-16-punto-de-fuga %}). Necesitamos recordar dos cosas: (1) que el tamaño aparente (o tamaño angular) de un objeto disminuye con la distancia, y (2) que la distancia al horizonte depende de la altura del nivel de los ojos. El único concepto novedoso, es que objetos **detrás del horizonte sí pueden ser visibles**. Para ejemplificar, usemos la siguiente figura:
 
@@ -68,6 +66,13 @@ Primero, expliquemos cómo se ven los rascacielos a grandes distancias. En lo si
 </figure>
 
 En este caso, el horizonte -- según el observador de la izquierda -- se encuentra a menor distancia que el edificio. Sin embargo, el edificio se puede ver. En este caso, **la Tierra misma es un obstáculo que bloquea (parcialmente) la observación del edificio**. Notemos que si el observador está ubicado a una altura mayor que que el radio promedio terrestre (sobre una loma u otro edificio), éste podrá ver una porción mayor del edificio de la derecha. Esta sutileza es importante porque, [cuando comparemos con fotos reales](#fotosdesdemichigan), la altura de la cámara determina la fracción de los edificios que se pueden ver.
+
+
+La fracción de los edificios bloqueada por el horizonte
+-----------------------------
+
+(Atención: esta sección contiene cálculos. Si prefieres saltarte los detalles, continua en la [sección
+siguiente](#chicagodesdemichigan))
 
 
 Ahora, veamos con más atención la geometría del observador y el edificio que
