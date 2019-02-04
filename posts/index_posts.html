@@ -1,0 +1,31 @@
+---
+layout: archive
+permalink: /posts/
+title: "Posts por Año"
+author_profile: true
+---
+
+{% include base_path %}
+
+Browse by:
+<strong><a href="{{ base_path }}{{ site.category_archive.path }}">
+<i aria-hidden="true"></i> Category
+</a></strong>
+<strong><a href="{{ base_path }}{{ site.tag_archive.path }}">
+<i aria-hidden="true"></i> Tags
+</a></strong>
+<strong><a href="{{ base_path }}/posts/">
+<i aria-hidden="true"></i> Year
+</a></strong>
+
+{% capture written_year %}'None'{% endcapture %}
+{% for post in site.posts %}
+{% unless post.exclude %}
+  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+  {% if year != written_year %}
+    <h2 id="{{ year | slugify }}" class="archive__subtitle"><a href="#{{ year | slugify }}">#{{ year }}</a></h2>
+    {% capture written_year %}{{ year }}{% endcapture %}
+  {% endif %}
+  {% include archive-single.html %}
+{% endunless %}
+{% endfor %}
