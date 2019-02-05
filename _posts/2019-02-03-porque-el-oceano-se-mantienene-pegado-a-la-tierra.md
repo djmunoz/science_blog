@@ -103,5 +103,5 @@ La [siguiente figura](https://earthsky.org/brightest-stars/altair-the-bluish-jew
 
 [![](http://en.es-static.us/upl/2015/08/altair-800.jpg)](https://earthsky.org/brightest-stars/altair-the-bluish-jewel-of-the-eagle?utm_campaign=shareaholic)
 
-**El período de rotación correspondiente a esta deformación es de 8.9 horas!** (como referencia, el Sol rota cada 24 días). Esta tasa de rotación corresponde a 290 kilómetros por hora en el ecuador de la estrella. Para una estrella como Altair, el período de rotación al límite de ruptura es $$P_{\rm ruptura}\approx~$$6 horas, es decir, solamente $$30\%$$ más rápido que la rotación real. Altair rota tan rápido que está cerca de desarmarse!
+**El período de rotación correspondiente a esta deformación es de 8.9 horas!** (como referencia, el Sol rota cada 24 días). Esta tasa de rotación corresponde a 290 kilómetros por hora en el ecuador de la estrella. Para una estrella como Altair, el período de rotación al límite de ruptura es $$P_{\rm ruptura}\approx~$$6 horas, es decir, solamente $$30\%$$ más rápido que su rotación real. Altair rota tan rápido que está cerca de desarmarse!
 
