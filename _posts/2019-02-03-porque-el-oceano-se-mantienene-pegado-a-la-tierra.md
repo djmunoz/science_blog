@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  Por qué el océano se mantiene pegado a la Tierra?
+title:  ¿Por qué el océano se mantiene pegado a la Tierra?
 date:   2019-02-03
 categories: [tierra] 
 published: true
@@ -8,7 +8,7 @@ pinned: false
 share: true
 ---
 
-Por qué el océano se mantiene pegado a la Tierra a medida que ésta rota? Porque 1600 km/h NO es tan rápido como tú crees.
+¿Por qué el océano se mantiene pegado a la Tierra a medida que ésta rota? Porque 1600 km/h NO es tan rápido como tú crees.
 
 
 {% include toc %}
