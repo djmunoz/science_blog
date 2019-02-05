@@ -96,7 +96,7 @@ Simplemente, **la Tierra rota demasiado lento como para poder lanzar sus océano
 Estrellas que rotan rápido
 --------------------
 
-La física de deformación rotacional es aplicable tanto a planetas coma a estrellas. De hecho, la geometría de una esfera de fluido deformada por la rotación **se puede calcular exactamente** (los detalles los dejamos para otro post). Un estrella deformada por su propia rotación adquiere la forma de un [**esferoide oblato**](https://en.wikipedia.org/wiki/Spheroid#Oblate_spheroids).
+La física de deformación rotacional es aplicable tanto a planetas coma a estrellas. De hecho, la geometría de una esfera de fluido deformada por la rotación **se puede calcular exactamente** (los detalles los dejamos para otro post). Esta la forma se llama [**esferoide oblato**](https://en.wikipedia.org/wiki/Spheroid#Oblate_spheroids).
 
 Una de las estrellas que más rápido rota es Altair (la estrella más brillante en la constelación del [Aguila](https://es.wikipedia.org/wiki/Aquila_(constelación)) y que se puede ver durante el invierno en Chile). Esta estrella **rota tan rápido** que su deformación se ha medido directamente (ver [Monnier et al (2007)](http://science.sciencemag.org/content/317/5836/342.full)) usando una técnica de observación conocida como interferometría. 
 La [siguiente figura](https://earthsky.org/brightest-stars/altair-the-bluish-jewel-of-the-eagle?utm_campaign=shareaholic) corresponde a tal medición.
