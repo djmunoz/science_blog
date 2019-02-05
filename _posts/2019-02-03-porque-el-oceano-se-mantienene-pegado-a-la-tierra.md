@@ -96,12 +96,12 @@ Simplemente, **la Tierra rota demasiado lento como para poder lanzar sus océano
 Estrellas que rotan rápido
 --------------------
 
-La física de deformación rotacional es aplicable tanto a planetas coma a estrellas. De hecho, la geometría de una esfera de fluido deformada por la rotación **se puede calcular exactamente** (los detalles los dejamos para otro post). Esta la forma se llama [**esferoide oblato**](https://en.wikipedia.org/wiki/Spheroid#Oblate_spheroids).
+La física de deformación rotacional es aplicable tanto a planetas coma a estrellas. De hecho, la geometría de una esfera de fluido deformada por la rotación **se puede calcular exactamente** (los detalles los dejamos para otro post). Esta forma se conoce como [**esferoide oblato**](https://en.wikipedia.org/wiki/Spheroid#Oblate_spheroids).
 
 Una de las estrellas que más rápido rota es Altair (la estrella más brillante en la constelación del [Aguila](https://es.wikipedia.org/wiki/Aquila_(constelación)) y que se puede ver durante el invierno en Chile). Esta estrella **rota tan rápido** que su deformación se ha medido directamente (ver [Monnier et al (2007)](http://science.sciencemag.org/content/317/5836/342.full)) usando una técnica de observación conocida como interferometría. 
 La [siguiente figura](https://earthsky.org/brightest-stars/altair-the-bluish-jewel-of-the-eagle?utm_campaign=shareaholic) corresponde a tal medición.
 
 [![](http://en.es-static.us/upl/2015/08/altair-800.jpg)](https://earthsky.org/brightest-stars/altair-the-bluish-jewel-of-the-eagle?utm_campaign=shareaholic)
 
-**El período de rotación correspondiente a esta deformación es de 8.9 horas!** (como referencia, el Sol rota cada 24 días). Esta tasa de rotación corresponde a 290 kilómetros por hora en el ecuador de la estrella. Para una estrella como Altair, el período de rotación al límite de ruptura es $$P_{\rm ruptura}\approx~$$6 horas, es decir, solamente $$30\%$$ más rápido que su rotación real. Altair rota tan rápido que está cerca de desarmarse!
+**El período de rotación correspondiente a esta deformación es de 8.9 horas!** (como referencia, el Sol rota cada 24 días). Esta tasa de rotación corresponde a 290 kilómetros por hora en el ecuador de la estrella. Para una estrella como Altair, el período de rotación al límite de ruptura es $$P_{\rm ruptura}\approx~$$6 horas, es decir, solamente $$30\%$$ más rápido que s= rotación real. Altair rota tan rápido que está cerca de desarmarse!
 
