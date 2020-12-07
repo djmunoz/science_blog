@@ -21,6 +21,10 @@ share: true
 ***
 ***
 
+{: id="errorcomun"}
+Un Error Común
+---------------
+
 La Tierra demora 24 horas en completar una rotación, mientras que la Luna aproximadamente 28 días en completar una órbita alrededor de la Tierra. Entonces, a veces la gente concluye (erróneamente) que la Luna se desplaza más lento que la superficie de la Tierra. Esto llevaría a la siguiente (nuevamente errónea) conclusión: la sombra de la Luna en la superficie terrestre debería desplazarse de Este a Oeste, determinada principalmente por la rotación de la Tierra con la Luna aproximadamente fija. Como muestra la siguiente Figura
 
 {% capture fig_img %}
