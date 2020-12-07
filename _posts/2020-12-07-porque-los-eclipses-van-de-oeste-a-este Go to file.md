@@ -82,6 +82,12 @@ Este 14 de Diciembre, un eclipse solar total cruzará Sudamérica, pasando por l
     </iframe>
 </div>
 
+<div style="position:relative; width:100%; height:0px; padding-bottom:100%;">
+    <iframe style="position:absolute; left:0; top:0; width:100%; height:100%"
+        src="https://eclipsophile.com/wp-content/uploads/2017/10/fig1.jpg">
+    </iframe>
+</div>
+
 
 
 Mientras que la extensión longitudinal de Estados Unidos es de más 4500 km, la distancia en línea recta entre Temuco (Chile) y Viedma (Argentina) es de sólo 850 km, lo que implica que el eclipse, de comienzo en Chile a fin en Argentina, durará aproximadamente una hora.
