@@ -39,15 +39,19 @@ El error se encuentra en asumir que la Luna se encuentra fija. En realidad, la L
 
 Para entender esta diferencia de velocidades, lo primero que hay que notar es la escala espacial. Usualmente, la escala del sistema Tierra-Luna se expresa como en la primera figura, cuando en realidad es así:
 
+
 Es decir, la velocidad linea de la luna es
 \\begin{align}
-v_{\rm L}= 2\pi\frac{384,400 {\rm km}}{28 {\rm d}}\approx 3600 {\rm km/h}
+v_{\rm L}= 2\pi\frac{384400 {\rm km}}{28 {\rm d}}\approx 3600 {\rm km/h}
 \\end{align}
 
 lo que es más de 2 veces más rápido que la velocidad de rotación terrestre en el ecuador
 \\begin{align}
-v_{\oplus,{\rm eq}}= 2\pi\frac{6,371 {\rm km}}{1 {\rm d}}\approx 1700 {\rm km/h}
+v_{\oplus,{\rm eq}}= 2\pi\frac{6371 {\rm km}}{1 {\rm d}}\approx 1700 {\rm km/h}
 \\end{align}
+
+Mientras que la Luna demora 28 días en completar una circunferencia de $$2\pi\times 384400 {\rm km}\approx2.5$$ millones de kilómetros, solamente se demora
+$2\times 6371 km/v_{\rm L}\approx 3.5$ horas en cruzar un diámetro terrestre.
 
 \\begin{align}
 v_{\rm sombra}= v_{\rm L}- v_{\oplus,{\rm eq}} \approx 900 {\rm km/h}
