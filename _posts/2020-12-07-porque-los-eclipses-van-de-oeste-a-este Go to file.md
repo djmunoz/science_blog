@@ -76,7 +76,7 @@ Eclipse en Sudamérica
 ---------------
 
 Este 14 de Diciembre, un eclipse solar total cruzará Sudamérica, pasando por la zona centro-sur de Chile (a la altura de Temuco):
-<div style="position:relative; width:100%; height:0px; padding-bottom:56.25%;">
+<div style="position:relative; width:100%; height:0px; padding-bottom:100%;">
     <iframe style="position:absolute; left:0; top:0; width:40%; height:40%"
         src="https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QHMXAK2NTZECBK4TKVUPPQWOF4.png">
     </iframe>
