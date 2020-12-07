@@ -45,6 +45,13 @@ La Luna se Mueve!
 ---------------
 
 Para entender esta diferencia de velocidades, lo primero que hay que notar es la escala espacial. Usualmente, la escala del sistema Tierra-Luna se expresa como en la primera figura, cuando en realidad es así:
+{% capture fig_img %}
+![image]({{ "/images/earth_moon-3.png" | relative_url }})
+{% endcapture %}
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption> Eclipses con una Luna fija (figure credit D.J.Munoz). </figcaption>
+</figure>
 
 
 Es decir, la velocidad linea de la luna es
@@ -70,7 +77,7 @@ Eclipse en Sudamérica
 
 Este 14 de Diciembre, un eclipse solar total cruzará Sudamérica, pasando por la zona centro-sur de Chile (a la altura de Temuco):
 <div style="position:relative; width:100%; height:0px; padding-bottom:56.25%;">
-    <iframe style="position:absolute; left:0; top:0; width:100%; height:100%"
+    <iframe style="position:absolute; left:0; top:0; width:40%; height:40%"
         src="https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QHMXAK2NTZECBK4TKVUPPQWOF4.png">
     </iframe>
 </div>
