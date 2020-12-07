@@ -58,7 +58,7 @@ v_{\rm sombra}= v_{\rm L}- v_{\oplus,{\rm eq}} \approx 900 {\rm km/h}
 \\end{align}
 
 Este 14 de Diciembre, un eclipse solar total cruzará Sudamérica, pasando por la zona centro-sur de Chile (a la altura de Temuco):
-<iframe src="https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QHMXAK2NTZECBK4TKVUPPQWOF4.png" width: 70% frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QHMXAK2NTZECBK4TKVUPPQWOF4.png" width: "70%" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 
 Mientras que la extensión longitudinal de Estados Unidos es de más 4500 km, la distancia en línea recta entre Temuco (Chile) y Viedma (Argentina) es de sólo 850 km, lo que implica que el eclipse, de comienzo en Chile a fin en Argentina, durará aproximadamente una hora.
