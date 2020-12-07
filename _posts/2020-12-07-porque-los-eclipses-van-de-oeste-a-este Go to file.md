@@ -44,5 +44,11 @@ Es decir, la velocidad linea de la luna es
 v_{\rm L}= 2\pi\frac{384,400 {\rm km}}{28 {\rm d}}\approx 3600 {\rm km/h}
 \\end{align}
 
+lo que es más de 2 veces más rápido que la velocidad de rotación terrestre en el ecuador
+\\begin{align}
+v_{\oplus,{\rm eq}}= 2\pi\frac{6,371 {\rm km}}{1 {\rm d}}\approx 1700 {\rm km/h}
+\\end{align}
+
+
 
 
