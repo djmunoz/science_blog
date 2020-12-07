@@ -25,11 +25,10 @@ La Tierra demora 24 horas en completar una rotación, mientras que la Luna demor
 
 {% capture fig_img %}
 ![image]({{ "/images/earth_moon-1.pdf" | relative_url }})
-{: id="fig_img"}
 {% endcapture %}
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption> Eclipses con una Luna fija (figure credit D.J.Munoz). </figcaption>
+  <figcaption> {: id="fig_img"} Eclipses con una Luna fija (figure credit D.J.Munoz). </figcaption>
 </figure>
 
 
