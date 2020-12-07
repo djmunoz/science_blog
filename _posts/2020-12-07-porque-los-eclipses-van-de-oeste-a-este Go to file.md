@@ -40,6 +40,9 @@ La Tierra demora 24 horas en completar una rotación, mientras que la Luna aprox
 
 El error se encuentra en asumir que la Luna se encuentra fija. En realidad, la Luna se mueve más rápido que la superficie de la Tierra, y por lo tanto, la sombra de la Luna se sobrepone a la rotación terrestre. 
 
+{: id="lalunasemueve"}
+La Luna se Mueve!
+---------------
 
 Para entender esta diferencia de velocidades, lo primero que hay que notar es la escala espacial. Usualmente, la escala del sistema Tierra-Luna se expresa como en la primera figura, cuando en realidad es así:
 
