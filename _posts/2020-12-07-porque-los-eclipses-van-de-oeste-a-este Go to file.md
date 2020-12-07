@@ -6,7 +6,6 @@ categories: [tierra]
 published: true
 pinned: false
 share: true
-output: bookdown::html_document2
 ---
 
  ¿Por qué los eclipses solares van de Oeste a Este? Respuesta corta: porque la Luna se mueve de Oeste a Este.
