@@ -58,7 +58,7 @@ v_{\oplus,{\rm eq}}= 2\pi\frac{6371 {\rm km}}{1 {\rm d}}\approx 1700 {\rm km/h}
 \\end{align}
 
 Mientras que la Luna demora 28 días en completar una circunferencia de $$2\pi\times 384400 {\rm km}\approx2.5$$ millones de kilómetros, solamente se demora
-$2\times 6371 km/v_{\rm L}\approx 3.5$ horas en cruzar un diámetro terrestre.
+$$2\times 6371 km/v_{\rm L}\approx 3.5$$ horas en cruzar un diámetro terrestre.
 
 \\begin{align}
 v_{\rm sombra}= v_{\rm L}- v_{\oplus,{\rm eq}} \approx 900 {\rm km/h}
