@@ -60,9 +60,12 @@ Para entender esta diferencia de velocidades, lo primero que hay que notar es la
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
   <figcaption> Sistema Tierra-Luna a escala (figure credit D.J.Munoz). </figcaption>
 </figure>
+¡Ahora la Luna apenas se ve! Lo imporante de esta figura a escala es que demuestra que el rango de posiciones en que la Luna puede potencialmente bloquear (parte de) el Sol es muy pequeño (banda gris), y que a la Luna le toma un tiempo mucho más corto que 28 días en cruzar ese rango. Veamos...
 
-
-Es decir, la velocidad linea de la luna es
+{: id="velocidadrelativa"}
+Velocidad Relativa
+---------------
+Ya que la Luna demora 28 días en completar una orbita (casi) circular de radio 384400 km, entonces la velocidad linear de la Luna es
 \\begin{align}
 v_{\rm L}= 2\pi\frac{384400 {\rm km}}{28 {\rm d}}\approx 3600 {\rm km/h}
 \\end{align}
@@ -72,7 +75,7 @@ lo que es más de 2 veces más rápido que la velocidad de rotación terrestre e
 v_{\oplus,{\rm eq}}= 2\pi\frac{6371 {\rm km}}{1 {\rm d}}\approx 1700 {\rm km/h}
 \\end{align}
 
-Mientras que la Luna demora 28 días en completar una circunferencia de $$2\pi\times 384400 {\rm km}\approx2.5$$ millones de kilómetros, solamente se demora
+Entonces, mientras que la Luna demora 28 días en completar una circunferencia de $$2\pi\times 384400 {\rm km}\approx2.5$$ millones de kilómetros, solamente se demora
 $$2\times 6371 km/v_{\rm L}\approx 3.5$$ horas en cruzar un diámetro terrestre.
 
 \\begin{align}
