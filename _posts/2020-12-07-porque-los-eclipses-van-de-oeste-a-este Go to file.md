@@ -50,8 +50,9 @@ Para entender esta diferencia de velocidades, lo primero que hay que notar es la
 {% endcapture %}
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption> Eclipses con una Luna fija (figure credit D.J.Munoz). </figcaption>
+  <figcaption> Sistema Tierra-Luna a escala (figure credit D.J.Munoz). </figcaption>
 </figure>
+¿Alcanzas a ver la Luna? Podemos más claramente que la órbita de la Luna es mucho más grande que la Tierra si la dibujamos así:
 
 
 Es decir, la velocidad linea de la luna es
@@ -77,20 +78,15 @@ Eclipse en Sudamérica
 
 Este 14 de Diciembre, un eclipse solar total cruzará Sudamérica, pasando por la zona centro-sur de Chile (a la altura de Temuco):
 <div style="position:relative; width:100%; height:0px; padding-bottom:100%;">
-    <iframe style="position:absolute; left:0; top:0; width:40%; height:40%"
-        src="https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QHMXAK2NTZECBK4TKVUPPQWOF4.png">
-    </iframe>
-</div>
-
-<div style="position:relative; width:100%; height:0px; padding-bottom:100%;">
     <iframe style="position:absolute; left:0; top:0; width:100%; height:100%"
         src="https://eclipsophile.com/wp-content/uploads/2017/10/fig1.jpg">
     </iframe>
 </div>
 
+La distancia en línea recta entre Temuco (Chile) y Viedma (Argentina) es de sólo 850 km, lo que implica que el eclipse, de comienzo en Chile a fin en Argentina, durará aproximadamente una hora. Esto en contrasste con el eclipse de Estados Unidos de 2017, que cruzó de costa a costa cubriendo, desde primera totalidad en el Oeste a última totalidad en el Este, un total de 3 horas y 12 minutos. S
 
 
-Mientras que la extensión longitudinal de Estados Unidos es de más 4500 km, la distancia en línea recta entre Temuco (Chile) y Viedma (Argentina) es de sólo 850 km, lo que implica que el eclipse, de comienzo en Chile a fin en Argentina, durará aproximadamente una hora.
+Mientras que la extensión longitudinal de Estados Unidos es de más 4500 km,
 
 
 
