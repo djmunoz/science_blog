@@ -52,7 +52,14 @@ Para entender esta diferencia de velocidades, lo primero que hay que notar es la
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
   <figcaption> Sistema Tierra-Luna a escala (figure credit D.J.Munoz). </figcaption>
 </figure>
-¿Alcanzas a ver la Luna? Podemos más claramente que la órbita de la Luna es mucho más grande que la Tierra si la dibujamos así:
+¡La Luna está lejos! Podemos más claramente que la órbita de la Luna es mucho más grande que la Tierra si la dibujamos así, tomando en cuenta adicionalmente el tamaño del Sol.
+{% capture fig_img %}
+![image]({{ "/images/earth_moon-2.png" | relative_url }})
+{% endcapture %}
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption> Sistema Tierra-Luna a escala (figure credit D.J.Munoz). </figcaption>
+</figure>
 
 
 Es decir, la velocidad linea de la luna es
