@@ -85,6 +85,15 @@ v_{\rm sombra}= v_{\rm L}- v_{\oplus,{\rm eq}} \approx 900 {\rm km/h}
 que es una cantidad positiva, y por lo tanto indica que la sombra lunar se mueve de Oeste a Este así como la Luna, a pesar de el efecto contrarrestante de la rotación terrestre.
 
 En conclusión, ahora podemos actualizar la primera figura para incluir el efecto del movimiento lunar. La figura queda así (aunque todavía **no** está a escala)
+{% capture fig_img %}
+![image]({{ "/images/earth_moon-4.png" | relative_url }})
+{% endcapture %}
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption> Eclipses con una Luna móvil (figure credit D.J.Munoz). </figcaption>
+</figure>
+
+
 
 {: id="eclipseensudamerica"}
 Eclipse en Sudamérica
@@ -97,11 +106,6 @@ Este 14 de Diciembre, un eclipse solar total cruzará Sudamérica, pasando por l
     </iframe>
 </div>
 
-La distancia en línea recta entre Temuco (Chile) y Viedma (Argentina) es de sólo 850 km, lo que implica que el eclipse, de comienzo en Chile a fin en Argentina, durará aproximadamente una hora. Esto en contrasste con el eclipse de Estados Unidos de 2017, que cruzó de costa a costa cubriendo, desde primera totalidad en el Oeste a última totalidad en el Este, un total de 3 horas y 12 minutos. S
-
-
-Mientras que la extensión longitudinal de Estados Unidos es de más 4500 km,
-
-
+La distancia en línea recta entre Temuco (Chile) y Viedma (Argentina) es de sólo 850 km, lo que implica que el movimiento de la umbra, de comienzo en Chile a fin en Argentina, tomará aproximadamente una hora.
 
 
